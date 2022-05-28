@@ -1,6 +1,4 @@
 - # Requirement
 - [[draws/2022-05-28-10-05-29.excalidraw]]
 -
-- ```calc
-  
-  ```
+- /zotero
