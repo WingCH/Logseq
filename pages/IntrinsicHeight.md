@@ -13,4 +13,9 @@
 - |||
   |--|--|
   | ![image.png](../assets/image_1653801863357_0.png) | ![image.png](../assets/image_1653801874428_0.png) |
--
+- <img src="https://mermaid.ink/img/ICBmbG93Y2hhcnQgVEIKICAgIEEtLT58dGV4dHxCCg" />
+  {{renderer :mermaid_ekqyyhu}}
+	- ```mermaid 
+	  flowchart TB
+	      A-->|text|B
+	  ```
