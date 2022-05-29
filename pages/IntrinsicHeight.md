@@ -5,6 +5,8 @@
 - ## Problem:
 - 1. White containers in the same row do not know the size of other white containers
 -
--
+- |||
+  |--|--|
+  | ![image.png](../assets/image_1653795799275_0.png) ||
 -
 -
