@@ -7,5 +7,5 @@
 - |||
   |--|--|
   | ![image.png](../assets/image_1653795799275_0.png) | ![image.png](../assets/image_1653795812985_0.png) |
-- 2.
+-
 -
