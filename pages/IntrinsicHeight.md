@@ -12,6 +12,6 @@
   {{renderer :mermaid_qzitkrejb}}
 	- ```mermaid 
 	  flowchart TB
-	      A & B--> C & D
+	      A
 	  ```
 -
