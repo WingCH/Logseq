@@ -1,12 +1,11 @@
 - # Requirement
-  1. The height of the white container is based on the size of the text widget
+- 1. The height of the white container is based on the size of the text widget
   2. White containers in the same row need to be the same height
 - [[draws/2022-05-28-10-05-29.excalidraw]]
 - ## Problem:
 - 1. White containers in the same row do not know the size of other white containers
--
-- |||
+  |||
   |--|--|
-  | ![image.png](../assets/image_1653795799275_0.png) ||
+  | ![image.png](../assets/image_1653795799275_0.png) | ![image.png](../assets/image_1653795812985_0.png) |
 -
 -
