@@ -4,6 +4,4 @@
 - [[draws/2022-05-28-10-05-29.excalidraw]]
 - ## Problem:
   1. White containers in the same row do not know the size of other white containers
-  2. 
-  3.
 -
