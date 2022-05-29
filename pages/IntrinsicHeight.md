@@ -3,8 +3,8 @@
   2. White containers in the same row need to be the same height
 - [[draws/2022-05-28-10-05-29.excalidraw]]
 - ## Problem:
-- 1. White containers in the same row do not know the size of other white containers
-  |||
+- White containers in the same row do not know the size of other white containers
+- |||
   |--|--|
   | ![image.png](../assets/image_1653795799275_0.png) | ![image.png](../assets/image_1653795812985_0.png) |
 - 2.
