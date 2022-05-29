@@ -1,5 +1,5 @@
 - # Requirement
 - [[draws/2022-05-28-10-05-29.excalidraw]]
 - ## Problem:
-- 1. White container height is base on text widget
+- 1. White container height is base on text widget size
 -
