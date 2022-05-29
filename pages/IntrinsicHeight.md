@@ -13,9 +13,9 @@
 - |||
   |--|--|
   | ![image.png](../assets/image_1653801863357_0.png) | ![image.png](../assets/image_1653801874428_0.png) |
-- <img src="https://mermaid.ink/img/ICBmbG93Y2hhcnQgVEIKICAgIEEtLT58dGV4dHxCCg" />
+- <p>There is an error with your mermaid syntax. Please rectify and render again.</p>
   {{renderer :mermaid_ekqyyhu}}
 	- ```mermaid 
 	  flowchart TB
-	      Container-->|text|B
+	      Container-->|`BoxConstraints(w=250.0, 0.0<=h<=Infinity)`|B
 	  ```
