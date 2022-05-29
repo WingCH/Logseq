@@ -8,6 +8,10 @@
   |--|--|
   | ![image.png](../assets/image_1653795799275_0.png) | ![image.png](../assets/image_1653795812985_0.png) |
 -
-- {{renderer :mermaid_qzitkrejb}}
+- <img src="https://mermaid.ink/img/ICBmbG93Y2hhcnQgVEIKICAgIEEgJiBCLS0-IEMgJiBECg" />
+  {{renderer :mermaid_qzitkrejb}}
 	- ```mermaid 
+	  flowchart TB
+	      A & B--> C & D
 	  ```
+-
