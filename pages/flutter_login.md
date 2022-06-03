@@ -48,4 +48,6 @@ title:: flutter_login
         (status) => add(AuthenticationStatusChanged(status)),
   );
   ```
+- 4. [[RepositoryProvider]] #repository_pattern
+  StreamController within Repository
 -
