@@ -14,7 +14,14 @@
     );
   }
   ```
-- in subtree, we can use `conte`
+- in subtree, we can use `context` get Bloc
+  ```dart
+  // with extensions
+  context.read<HomeBloc>();
+  
+  // without extensions
+  BlocProvider.of<HomeBloc>(context)
+  ```
 -
 -
 -
