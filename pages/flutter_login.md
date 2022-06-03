@@ -42,5 +42,5 @@ title:: flutter_login
   ),
   ```
 - 3. mix StreamController
-  listen stream within bloc
+  listen stream and fire event within bloc
 -
