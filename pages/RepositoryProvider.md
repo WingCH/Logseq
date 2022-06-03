@@ -1,5 +1,5 @@
 - #bloc
 -
 - ## How to use
--
+	- 1. put `RepositoryProvider` on top of `MaterialApp`
 -
