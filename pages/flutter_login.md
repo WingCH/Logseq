@@ -29,9 +29,7 @@ title:: flutter_login
 	  ```
 - 2. [[BlocSelector]]
   
-  > The above will only rebuild the widget when the property name of the ProfileBloc's state changes.
-  
-  
+  > Will only rebuild the widget when the property `user.id` of the Bloc state changes.
   
   ```dart
   Builder(
