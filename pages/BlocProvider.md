@@ -6,10 +6,13 @@ url:: https://bloclibrary.dev/#/flutterbloccoreconcepts?id=blocprovider
   > when page is close, It will automatically handle closing the bloc.
   
   ```dart
-  BlocProvider(
-    create: (BuildContext context) => BlocA(),
-    child: ChildA(),
-  );
+  @override
+  Widget build(BuildContext context) {
+    return BlocProvider(
+      create: (_) => HomeB(),
+      child: const HomeView(),
+    );
+  }
   ```
 -
 -
