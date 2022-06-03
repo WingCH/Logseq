@@ -1,5 +1,5 @@
-url:: https://bloclibrary.dev/#/flutterbloccoreconcepts?id=blocprovider
-
+- #bloc
+  url:: https://bloclibrary.dev/#/flutterbloccoreconcepts?id=blocprovider
 - ## How to use
 - ### Two way
 - 1. on top of `page` , so that a single instance of a bloc can be provided to multiple widgets within a subtree. 
