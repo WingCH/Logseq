@@ -41,5 +41,5 @@ title:: flutter_login
     },
   ),
   ```
-- 3.z
+- 3. mix StreamController
 -
