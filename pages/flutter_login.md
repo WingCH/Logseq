@@ -42,5 +42,10 @@ title:: flutter_login
   ),
   ```
 - 3. mix StreamController
-  listen stream and fire event within bloc
+  listen stream and fire the event within bloc
+  ```dart
+  _authenticationRepository.status.listen(
+        (status) => add(AuthenticationStatusChanged(status)),
+  );
+  ```
 -
