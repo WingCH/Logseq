@@ -1,3 +1,3 @@
 - ## How to use
 - ### Two way
-- 1. op
+- 1.
