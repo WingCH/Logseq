@@ -9,6 +9,7 @@
       );
   ```
 - 2. use `context` get Repository and inject to bloc as dependency
+  
   ```dart
   Widget build(BuildContext context) {
       return Scaffold(
@@ -22,5 +23,6 @@
       );
     }
   ```
+-
 -
 -
