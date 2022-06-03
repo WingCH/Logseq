@@ -42,4 +42,5 @@ title:: flutter_login
   ),
   ```
 - 3. mix StreamController
+  listen Stream
 -
