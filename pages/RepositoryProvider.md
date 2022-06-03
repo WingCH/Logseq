@@ -8,7 +8,7 @@
         child: MaterialApp(home: NewCarPage()),
       );
   ```
-- 2. use `context` get Repository and inject to bloc as dependency
+- 2. use `context` get Repository and inject to bloc as dependency #BlocProvider
   
   ```dart
   Widget build(BuildContext context) {
