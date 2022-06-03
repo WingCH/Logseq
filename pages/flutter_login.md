@@ -2,7 +2,7 @@ title:: flutter_login
 
 -
 ## Point
-	- 1. using [[BlocListener]]
+	- 1. [[BlocListener]]
 	  listen auth status to drive navigator in widget part #navigator
 	  ```dart
 	  return BlocListener<AuthenticationBloc, AuthenticationState>(
@@ -27,4 +27,4 @@ title:: flutter_login
 	    child: child,
 	  );
 	  ```
--
+- 2.
