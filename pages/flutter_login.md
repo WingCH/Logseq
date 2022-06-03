@@ -28,4 +28,19 @@ title:: flutter_login
 	  );
 	  ```
 - 2. [[BlocSelector]]
+  
+  > The above will only rebuild the widget when the property name of the ProfileBloc's state changes.
+  
+  
+  
+  ```dart
+  Builder(
+    builder: (context) {
+      final userId = context.select(
+        (AuthenticationBloc bloc) => bloc.state.user.id,
+      );
+      return Text('UserID: $userId');
+    },
+  ),
+  ```
 -
