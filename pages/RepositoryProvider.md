@@ -8,5 +8,7 @@
         child: MaterialApp(home: NewCarPage()),
       );
   ```
-- 2. use `context` get Repository and inject
+- 2. use `context` get Repository and inject to bloc as dependency in 
+  ```
+  ```
 -
