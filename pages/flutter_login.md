@@ -42,5 +42,5 @@ title:: flutter_login
   ),
   ```
 - 3. mix StreamController
-  listen Stream
+  listen stream within bloc
 -
