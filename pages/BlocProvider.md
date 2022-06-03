@@ -9,7 +9,7 @@ url:: https://bloclibrary.dev/#/flutterbloccoreconcepts?id=blocprovider
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (_) => HomeB(),
+      create: (_) => HomeBloc(),
       child: const HomeView(),
     );
   }
