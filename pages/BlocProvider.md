@@ -18,12 +18,10 @@
   ```dart
   // with extensions
   context.read<HomeBloc>();
-  
   // without extensions
   BlocProvider.of<HomeBloc>(context)
   ```
   then we can send `event`
-  
   ```dart
    context.read<HomeBloc>().add(const HomeCameraTaped());
   ```
