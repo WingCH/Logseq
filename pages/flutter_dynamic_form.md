@@ -7,4 +7,3 @@
   2. using **sequential** transformer #bloc_concurrency
   3. using [[RepositoryProvider]] #repository_pattern
 -
--
