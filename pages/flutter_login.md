@@ -2,8 +2,6 @@ title:: flutter_login
 
 - [Simulator Screen Recording - iPhone 13 Pro - 2022-06-03 at 20.54.21.mp4](../assets/Simulator_Screen_Recording_-_iPhone_13_Pro_-_2022-06-03_at_20.54.21_1654260881621_0.mp4)
 -
-- ![a](../assets/Simulator_Screen_Recording_-_iPhone_13_Pro_-_2022-06-03_at_20.54.21_1654260881621_0.mp4){:height 100, :width 50}
--
 ## Point
 - 1. [[BlocListener]]
   listen auth status to drive navigator in widget part #navigator
