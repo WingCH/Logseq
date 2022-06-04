@@ -1,1 +1,2 @@
-- `runtimeType.toString()`
+- `runtimeType.toString()` seems only web platform changed class name in release mode
+- tested in flo
