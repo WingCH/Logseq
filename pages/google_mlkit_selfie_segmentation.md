@@ -17,5 +17,5 @@ title:: google_mlkit_selfie_segmentation
 -
 - ## Speed test (profile mode)
 - Pixel 6 : `executed in 0:00:02.873917`
-- iP
+- iPad Air 4:
 -
