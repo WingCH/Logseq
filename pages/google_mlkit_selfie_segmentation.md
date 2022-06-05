@@ -8,6 +8,8 @@ title:: google_mlkit_selfie_segmentation
     enableRawSizeMask: false,
   );
   
+  ...
+  
   Stopwatch stopwatch =  Stopwatch()..start();
   final SegmentationMask? mask = await _segmenter.processImage(inputImage);
   print('executed in ${stopwatch.elapsed}');
