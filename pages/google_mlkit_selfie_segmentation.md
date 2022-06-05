@@ -12,4 +12,6 @@ title:: google_mlkit_selfie_segmentation
   final SegmentationMask? mask = await _segmenter.processImage(inputImage);
   print('executed in ${stopwatch.elapsed}');
   ```
-- pixel 6 i
+- pixel 6 in profile mode: `executed in 0:00:02.918316`
+-
+-
