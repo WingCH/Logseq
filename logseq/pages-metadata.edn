@@ -81,7 +81,10 @@
   :block/updated-at 1654426216621}
  {:block/name "jun 6th, 2022",
   :block/created-at 1654445024762,
-  :block/updated-at 1654522020948}
+  :block/updated-at 1654607831867}
+ {:block/name "jun 7th, 2022",
+  :block/created-at 1654531233722,
+  :block/updated-at 1654531233722}
  {:block/name "keysoc",
   :block/created-at 1654522020947,
   :block/updated-at 1654522020947}
