@@ -90,7 +90,7 @@
   :block/updated-at 1654653400956}
  {:block/name "jun 9th, 2022",
   :block/created-at 1654744659543,
-  :block/updated-at 1654744659543}
+  :block/updated-at 1654744688291}
  {:block/name "keysoc",
   :block/created-at 1654653502325,
   :block/updated-at 1654653502325}
@@ -115,6 +115,9 @@
  {:block/name "now",
   :block/created-at 1653664295817,
   :block/updated-at 1653664295817}
+ {:block/name "price input",
+  :block/created-at 1654744688291,
+  :block/updated-at 1654744705248}
  {:block/name "repository_pattern",
   :block/created-at 1654501117440,
   :block/updated-at 1654501117440}
