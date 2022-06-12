@@ -2,4 +2,4 @@
 	- subtitle not clear
 	- ![image.png](../assets/image_1655003288885_0.png)
 - Movist Pro
-	-
+	- subtitle clear, because have some shadow in
