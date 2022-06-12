@@ -5,4 +5,5 @@
   collapsed:: true
 	- ![image.png](../assets/image_1654999958456_0.png)
 - New ML-based **barcode** detector and decoder
-- Text recognize support
+- Text recognize
+	- ✅✅
