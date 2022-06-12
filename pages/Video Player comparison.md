@@ -4,4 +4,4 @@
 - Movist Pro
 	- subtitle clear, because have some shadow in subtitle
 		- ![image.png](../assets/image_1655003464439_0.png)
-	-
+	- ❗️need disable `Use key-frame seeking (FFmpeg only)`,
