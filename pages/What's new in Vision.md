@@ -14,7 +14,9 @@
 	- VNDetectBarcodesRequestRevision2 vs VNDetectBarcodesRequestRevision2
 		- VNDetectBarcodesRequestRevision2
 			- ![image.png](../assets/image_1655001951874_0.png){:height 326, :width 215}
-			- 1. missing first
+			- 1. missing first barcode
+			  2. detected the second barcode twice
+			  3.
 		-
 - New ML-based optical flow generator
   collapsed:: true
