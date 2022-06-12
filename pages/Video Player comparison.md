@@ -1,5 +1,7 @@
 - Elmedia Player
 	- subtitle not clear
-	- ![image.png](../assets/image_1655003288885_0.png)
+		- ![image.png](../assets/image_1655003288885_0.png)
 - Movist Pro
-	- subtitle clear, because have some shadow in
+	- subtitle clear, because have some shadow in subtitle
+		- ![image.png](../assets/image_1655003464439_0.png)
+	-
