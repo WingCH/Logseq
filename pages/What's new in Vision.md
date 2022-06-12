@@ -10,4 +10,4 @@
 - New ML-based **barcode** detector and decoder
 	- Faster for multiple codes — "constant time"
 - New ML-based optical flow generator
-	-
+	- ![image.png](../assets/image_1655001001732_0.png){:height 265, :width 499}
