@@ -5,3 +5,4 @@
   2. Content blocking
   3. Encrypted media
   4. Remote Web Inspector
+-
