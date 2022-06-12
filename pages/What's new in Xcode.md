@@ -4,4 +4,7 @@
   collapsed:: true
 	- ![image.png](../assets/image_1655004030521_0.png)
 - Support reformat plugin
+  collapsed:: true
 	- ![image.png](../assets/image_1655004248603_0.png)
+- Single Size
+-
