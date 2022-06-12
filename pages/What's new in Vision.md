@@ -19,4 +19,4 @@
 	- VNDetectFaceLandmarksRequestRevision3
 	- Xcode support quick look to see face landmark
 		- ![image.png](../assets/image_1655001610853_0.png){:height 310, :width 610}
--
+		- if image is already release in memroy,
