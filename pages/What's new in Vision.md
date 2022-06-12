@@ -6,5 +6,5 @@
 	- ![image.png](../assets/image_1654999958456_0.png)
 - New ML-based **barcode** detector and decoder
 - Text recognize
-	- best : specify languages to vision,
+	- best : specify languages to vision, leave automatically DetectsLanguage turned off
 	-
