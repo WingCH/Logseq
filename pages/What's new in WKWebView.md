@@ -1,8 +1,8 @@
 - {{renderer :linkpreview,https://developer.apple.com/videos/play/wwdc2022/10049/}}
 -
 - ## Web
-- 1. Web content interaction
-  2. Content blocking
-  3. Encrypted media
-  4. Remote Web Inspector
--
+- Web content interaction
+- Content blocking
+- Encrypted media
+	- can see encrypted media within WKWeb
+- Remote Web Inspector
