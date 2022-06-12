@@ -6,5 +6,7 @@
 - Support reformat plugin
   collapsed:: true
 	- ![image.png](../assets/image_1655004248603_0.png)
-- Single Size
+- Single Size App icon
+	- ![image.png](../assets/image_1655004629094_0.png)
+-
 -
