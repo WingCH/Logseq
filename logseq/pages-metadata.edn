@@ -70,12 +70,15 @@
  {:block/name "intrinsicheight",
   :block/created-at 1653702583158,
   :block/updated-at 1653816821169}
+ {:block/name "ios",
+  :block/created-at 1655021807068,
+  :block/updated-at 1655021807068}
  {:block/name "issue",
   :block/created-at 1654501117483,
   :block/updated-at 1654501117483}
  {:block/name "jun 12th, 2022",
   :block/created-at 1654998839792,
-  :block/updated-at 1655003272307}
+  :block/updated-at 1655021807070}
  {:block/name "jun 3rd, 2022",
   :block/created-at 1654501117317,
   :block/updated-at 1654501117317}
@@ -148,6 +151,9 @@
  {:block/name "todo",
   :block/created-at 1653664295816,
   :block/updated-at 1653664295816}
+ {:block/name "unable to boot the simulator.",
+  :block/created-at 1655021804661,
+  :block/updated-at 1655021817904}
  {:block/name "video player comparison",
   :block/created-at 1655003272306,
   :block/updated-at 1655003620500}
