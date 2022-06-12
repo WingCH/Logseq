@@ -1,1 +1,3 @@
 - Person segmentation (人物分割)
+- hand pose estimation
+	- ![image.png](../assets/image_1654999958456_0.png)
