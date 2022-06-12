@@ -15,4 +15,5 @@
   collapsed:: true
 	- ![image.png](../assets/image_1655001001732_0.png){:height 265, :width 499}
 	- video object track use
+- VNDetectFaceLandmarksRequestRevision3
 -
