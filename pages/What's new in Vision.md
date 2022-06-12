@@ -12,7 +12,9 @@
 	- Faster for multiple codes — "constant time"
 	- VNDetectBarcodesRequestRevision3
 	- VNDetectBarcodesRequestRevision2 vs VNDetectBarcodesRequestRevision2
-		-
+		- VNDetectBarcodesRequestRevision2
+			- ![image.png](../assets/image_1655001951874_0.png){:height 326, :width 215}
+			- 1. missing first
 		-
 - New ML-based optical flow generator
   collapsed:: true
