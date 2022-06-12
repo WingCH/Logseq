@@ -8,3 +8,4 @@
 	- best : specify languages to vision, leave automatically DetectsLanguage turned off
 	- spoort 韓文
 - New ML-based **barcode** detector and decoder
+	- Faster for multiple codes — ”constant time"
