@@ -9,8 +9,11 @@
 	- best : specify languages to vision, leave automatically DetectsLanguage turned off
 	- spoort 韓文
 - New ML-based **barcode** detector and decoder
-  collapsed:: true
 	- Faster for multiple codes — "constant time"
+	- VNDetectBarcodesRequestRevision3
+	- VNDetectBarcodesRequestRevision2 vs VNDetectBarcodesRequestRevision2
+		-
+		-
 - New ML-based optical flow generator
   collapsed:: true
 	- ![image.png](../assets/image_1655001001732_0.png){:height 265, :width 499}
