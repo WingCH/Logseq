@@ -12,12 +12,12 @@
 	- Faster for multiple codes — "constant time"
 	- VNDetectBarcodesRequestRevision3
 	- VNDetectBarcodesRequestRevision2 vs VNDetectBarcodesRequestRevision3
-		- VNDetectBarcodesRequestRevision2
+		- VNDetectBarcodesRequestRevision2 #quick-look-preview
 			- ![image.png](../assets/image_1655001951874_0.png){:height 326, :width 215}
 			- 1. missing first barcode
 			  2. detected the second barcode twice
 			  3. a line through the barcode rather than complete bounding box.
-		- VNDetectBarcodesRequestRevision3
+		- VNDetectBarcodesRequestRevision3 #quick-look-preview
 			- ![image.png](../assets/image_1655002257925_0.png){:height 394, :width 412}
 			-
 - New ML-based optical flow generator
