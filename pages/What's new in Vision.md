@@ -25,9 +25,11 @@
 	- ![image.png](../assets/image_1655001001732_0.png){:height 265, :width 499}
 	- video object track use
 - Face Landmarks
+  collapsed:: true
 	- VNDetectFaceLandmarksRequestRevision3
+- Quick Look Preview #quick-look-preview
 	- Xcode support quick look to see face landmark
 		- ![image.png](../assets/image_1655001610853_0.png){:height 310, :width 610}
 		- if image is already release in memory, debug tool can still generate below image
 			- ![image.png](../assets/image_1655001775550_0.png){:height 233, :width 616}
-- quick look
+-
