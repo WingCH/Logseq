@@ -1,3 +1,4 @@
 - Person segmentation (人物分割)
+	- ![image.png](../assets/image_1654999973081_0.png){:height 360, :width 491}
 - hand pose estimation
 	- ![image.png](../assets/image_1654999958456_0.png)
