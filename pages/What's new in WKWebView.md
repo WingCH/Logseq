@@ -1,0 +1,10 @@
+- {{renderer :linkpreview,https://developer.apple.com/videos/play/wwdc2022/10049/}}
+-
+- ## Web
+- Web content interaction
+- Content blocking
+- Encrypted media
+	- can see encrypted media within WKWebView
+		- e.g : Apple TV
+- Remote Web Inspector
+-
