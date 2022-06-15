@@ -4,5 +4,7 @@
 	- 語言: 繁體中文
 	- 地區: 香港
 	- ![image.png](../assets/image_1655284278188_0.png){:height 563, :width 311}
-- Use `UserDefaults.standard.array(forKey: "AppleLanguages")`
-	- result:
+- Use `AppleLanguages` get user Defaults
+	- ```swift
+	  UserDefaults.standard.array(forKey: "AppleLanguages")
+	  ```
