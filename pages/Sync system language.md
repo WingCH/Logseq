@@ -1,3 +1,4 @@
+- iOS setting don't have flutter app before add `Localizations` in xcode
 -
 -
 - Case 1
