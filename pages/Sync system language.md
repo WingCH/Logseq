@@ -1,8 +1,11 @@
 - iOS settings no display app setting item before adding `Localizations` in xcode #iOS #xcode
   collapsed:: true
+	- iOS version: 15.5
 	- default `Localizations` setting
 	- ![image.png](../assets/image_1655287401953_0.png)
 - When set `Localizations` once, iOS settings will display app setting item forever, even after resetting the `Localizations` #iOS #xcode
+  collapsed:: true
+	- iOS version: 15.5
 -
 -
 - Case 1
