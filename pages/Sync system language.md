@@ -1,4 +1,3 @@
-- Example not set any Localization in Xcode project
+- Example project not set any Localization in Xcode
 	- ![image.png](../assets/image_1655284191132_0.png)
-	-
--
+- Simulator 語言與地區
