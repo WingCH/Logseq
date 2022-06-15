@@ -1,4 +1,5 @@
-- iOS settings no display app setting item before adding `Localizations` in xcode @
+- iOS settings no display app setting item before adding `Localizations` in xcode #iOS #xcode
+  collapsed:: true
 	- default `Localizations` setting
 	- ![image.png](../assets/image_1655287401953_0.png)
 -
