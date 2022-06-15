@@ -1,3 +1,5 @@
 - Example project not set any Localization in Xcode
 	- ![image.png](../assets/image_1655284191132_0.png)
 - Simulator 語言與地區
+	- ![image.png](../assets/image_1655284278188_0.png){:height 730, :width 331}
+-
