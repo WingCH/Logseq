@@ -1,3 +1,5 @@
+-
+-
 - Case 1
 	- Example project not set any Localization in Xcode
 		- ![image.png](../assets/image_1655284191132_0.png)
