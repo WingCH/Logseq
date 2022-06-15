@@ -2,7 +2,7 @@
   collapsed:: true
 	- default `Localizations` setting
 	- ![image.png](../assets/image_1655287401953_0.png)
--
+- When set `Localizations` once in xcode, iOS
 -
 - Case 1
 	- Example project not set any Localization in Xcode
