@@ -1,4 +1,5 @@
-- iOS setting don't have flutter app before add `Localizations` in xcode
+- 1. iOS settings no display app setting item before adding `Localizations` in xcode
+  2.
 -
 -
 - Case 1
