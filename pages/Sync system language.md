@@ -2,8 +2,8 @@
   collapsed:: true
 	- default `Localizations` setting
 	- ![image.png](../assets/image_1655287401953_0.png)
-- When set `Localizations` once, iOS settings will display app setting item forever
-	- even revert `Localizations` setting, the app setting item also display
+- When set `Localizations` once, iOS settings will display app setting item forever, even after resetting the `Localizations` #iOS #xcode
+-
 -
 - Case 1
 	- Example project not set any Localization in Xcode
