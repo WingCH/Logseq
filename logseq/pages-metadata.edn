@@ -99,7 +99,10 @@
   :block/updated-at 1655200602790}
  {:block/name "jun 15th, 2022",
   :block/created-at 1655222790399,
-  :block/updated-at 1655222790399}
+  :block/updated-at 1655284118820}
+ {:block/name "jun 16th, 2022",
+  :block/created-at 1655309237193,
+  :block/updated-at 1655309237193}
  {:block/name "jun 1st, 2022",
   :block/created-at 1654017171407,
   :block/updated-at 1654017171407}
@@ -163,6 +166,9 @@
  {:block/name "runtimetype",
   :block/created-at 1654501117345,
   :block/updated-at 1654501117345}
+ {:block/name "sync system language",
+  :block/created-at 1655284114586,
+  :block/updated-at 1655350724585}
  {:block/name "timer",
   :block/created-at 1654781177696,
   :block/updated-at 1654781177696}
@@ -194,5 +200,8 @@
   :block/created-at 1654501117441,
   :block/updated-at 1654501117441}
  {:block/name "wwdc",
-  :block/created-at 1655174920287, 
-  :block/updated-at 1655174920287}]
+  :block/created-at 1655174920287,
+  :block/updated-at 1655174920287}
+ {:block/name "xcode",
+  :block/created-at 1655287458715, 
+  :block/updated-at 1655287458715}]
