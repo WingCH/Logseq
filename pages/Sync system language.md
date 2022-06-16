@@ -9,6 +9,9 @@
 -
 - AppleLanguages Behavior
 	- Simulator Language & Region
+	- ||Language|Region|||
+	  |--|--|--|--|--|
+	  ||||||
 -
 - Case 1
 	- Example project not set any Localization in Xcode
