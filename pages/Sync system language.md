@@ -9,17 +9,17 @@
 -
 - AppleLanguages Behavior  #iOS #xcode
 	- Simulator Language & Region
-	- ||Language(order of priority)|Region|App support language|User selected language|AppleLanguages("UserDefaults")|
-	  |--|--|--|--|--|--|
-	  ||English|United States|English, Chinese Traditional|no|[en]|
-	  ||English, **Chinese Traditional (US)**|United States|English, Chinese Traditional|no|[en, **zh-Hant-US**]|
-	  ||English, Chinese Traditional (US)|**Singapore**|English, Chinese Traditional|no|[en-**SG**, zh-Hant-US]|
-	  ||English, Chinese Traditional (US), **Chinese Traditional (Hong Kong)**|Singapore|English, Chinese Traditional|no|[en-SG, zh-Hant-US, **zh-Hant-HK**]|
-	  ||**Chinese Traditional (Hong Kong)**, English, Chinese Traditional (US)|Singapore|English, Chinese Traditional|no|[**zh-Hant-HK**, en-SG, zh-Hant-US]|
-	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US)|Singapore|English, Chinese Traditional|**English**|[**en-SG**, zh-Hant-HK, zh-Hant-US]|
-	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), **Français**|Singapore|English, Chinese Traditional|English|[en-SG, zh-Hant-HK, zh-Hant-US]|
-	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), Français|Singapore|English, Chinese Traditional|**Français**|[**fr-SG**, zh-Hant-HK, en-SG, zh-Hant-US]|
-	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), Français|Singapore|English, Chinese Traditional|**Chinese Traditional**|[**zh-Hant-US**, zh-Hant-HK, en-SG, fr-SG]|
+	- ||Language(order of priority)|Region|App support language|User selected language|AppleLanguages("UserDefaults")|Remark|
+	  |--|--|--|--|--|--|--|
+	  ||English|United States|English, Chinese Traditional|no|[en]||
+	  ||English, **Chinese Traditional (US)**|United States|English, Chinese Traditional|no|[en, **zh-Hant-US**]|when region is US, choose `Chinese Traditional` the locale code is `zh-Hant-US`|
+	  ||English, Chinese Traditional (US)|**Singapore**|English, Chinese Traditional|no|[en-**SG**, zh-Hant-US]|when change region to Singapore, locale will changed to en-SG|
+	  ||English, Chinese Traditional (US), **Chinese Traditional (Hong Kong)**|Singapore|English, Chinese Traditional|no|[en-SG, zh-Hant-US, **zh-Hant-HK**]||
+	  ||**Chinese Traditional (Hong Kong)**, English, Chinese Traditional (US)|Singapore|English, Chinese Traditional|no|[**zh-Hant-HK**, en-SG, zh-Hant-US]||
+	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US)|Singapore|English, Chinese Traditional|**English**|[**en-SG**, zh-Hant-HK, zh-Hant-US]||
+	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), **Français**|Singapore|English, Chinese Traditional|English|[en-SG, zh-Hant-HK, zh-Hant-US]|Unsupported languages are not saved in `AppleLanguages` |
+	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), Français|Singapore|English, Chinese Traditional|**Français**|[**fr-SG**, zh-Hant-HK, en-SG, zh-Hant-US]|When user select unsupported languages in iOS system page, `AppleLanguages` will have unsupported languages|
+	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), Français|Singapore|English, Chinese Traditional|**Chinese Traditional**|[**zh-Hant-US**, zh-Hant-HK, en-SG, fr-SG]||
 	-
 	-
 	-
