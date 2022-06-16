@@ -14,7 +14,8 @@
 	  ||English|United States|no|[en]|
 	  ||English, **Chinese Traditional (US)**|United States|no|[en, zh-Hant-US]|
 	  ||English, Chinese Traditional (US)|**Singapore**|no|[en-SG, zh-Hant-US]|
-	  ||English, Chinese Traditional (US)|**Singapore**|no|[en-SG, zh-Hant-US]|
+	  ||English, Chinese Traditional (US), **Chinese Traditional (Hong Kong)**|Singapore|no|[en-SG, zh-Hant-US, zh-Hant-HK]|
+	-
 	-
 	-
 	-
