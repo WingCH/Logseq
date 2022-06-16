@@ -9,10 +9,13 @@
 -
 - AppleLanguages Behavior
 	- Simulator Language & Region
-	- ||Language(order of priority)|Region|user selected language|AppleLanguages("UserDefaults")|
+	- ||Language(order of priority)|Region|User selected language|AppleLanguages("UserDefaults")|
 	  |--|--|--|--|--|
 	  ||English|United States|no|[en]|
-	  ||English, Chinese Traditional (US)|United States|no|[en, zh-Hant-US]|
+	  ||English, **Chinese Traditional (US)**|United States|no|[en, zh-Hant-US]|
+	  ||English, Chinese Traditional (US)|**Singapore**|no|[en-SG, zh-Hant-US]|
+	-
+	-
 -
 - Case 1
 	- Example project not set any Localization in Xcode
