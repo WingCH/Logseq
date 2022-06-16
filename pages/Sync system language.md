@@ -18,7 +18,7 @@
 	  ||**Chinese Traditional (Hong Kong)**, English, Chinese Traditional (US)|Singapore|English, Chinese Traditional|no|[**zh-Hant-HK**, en-SG, zh-Hant-US]|
 	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US)|Singapore|English, Chinese Traditional|**English**|[**en-SG**, zh-Hant-HK, zh-Hant-US]|
 	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), **Français**|Singapore|English, Chinese Traditional|English|[en-SG, zh-Hant-HK, zh-Hant-US]|
-	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), Français|Singapore|English, Chinese Traditional|**Français**|[en-SG, zh-Hant-HK, zh-Hant-US]|
+	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), Français|Singapore|English, Chinese Traditional|**Français**|[**fr-SG**, zh-Hant-HK, en-SG, zh-Hant-US]|
 	-
 	-
 	-
