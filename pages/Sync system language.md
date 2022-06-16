@@ -9,7 +9,7 @@
 -
 - AppleLanguages Behavior
 	- Simulator Language & Region
-	- ||Language|Region|||
+	- ||Language|Region||AppleLanguages("UserDefaults")|
 	  |--|--|--|--|--|
 	  ||English|United States|||
 -
