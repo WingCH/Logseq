@@ -12,10 +12,10 @@
 	- ||Language(order of priority)|Region|User selected language|AppleLanguages("UserDefaults")|
 	  |--|--|--|--|--|
 	  ||English|United States|no|[en]|
-	  ||English, **Chinese Traditional (US)**|United States|no|[en, zh-Hant-US]|
-	  ||English, Chinese Traditional (US)|**Singapore**|no|[en-SG, zh-Hant-US]|
-	  ||English, Chinese Traditional (US), **Chinese Traditional (Hong Kong)**|Singapore|no|[en-SG, zh-Hant-US, zh-Hant-HK]|
-	  ||**Chinese Traditional (Hong Kong)**, English, Chinese Traditional (US)|Singapore|no|[zh-Hant-HK, en-SG, zh-Hant-US]|
+	  ||English, **Chinese Traditional (US)**|United States|no|[en, **zh-Hant-US**]|
+	  ||English, Chinese Traditional (US)|**Singapore**|no|[en-**SG**, zh-Hant-US]|
+	  ||English, Chinese Traditional (US), **Chinese Traditional (Hong Kong)**|Singapore|no|[en-SG, zh-Hant-US, **zh-Hant-HK**]|
+	  ||**Chinese Traditional (Hong Kong)**, English, Chinese Traditional (US)|Singapore|no|[**zh-Hant-HK**, en-SG, zh-Hant-US]|
 	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US)|Singapore|**English**|[en-SG, zh-Hant-HK, zh-Hant-US]|
 	-
 	-
