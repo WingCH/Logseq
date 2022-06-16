@@ -20,6 +20,8 @@
 	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), **Français**|Singapore|English, Chinese Traditional|English|[en-SG, zh-Hant-HK, zh-Hant-US]|Unsupported languages are not saved in `AppleLanguages` |
 	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), Français|Singapore|English, Chinese Traditional|**Français**|[**fr-SG**, zh-Hant-HK, en-SG, zh-Hant-US]|When user select unsupported languages in iOS system page, `AppleLanguages` will have unsupported languages|
 	  ||Chinese Traditional (Hong Kong), English, Chinese Traditional (US), Français|Singapore|English, Chinese Traditional|**Chinese Traditional**|[**zh-Hant-US**, zh-Hant-HK, en-SG, fr-SG]||
+	  ||Français|United States|English, Chinese Traditional|no|[en]||
+	-
 	-
 	-
 	-
