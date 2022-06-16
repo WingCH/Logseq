@@ -11,7 +11,8 @@
 	- Simulator Language & Region
 	- ||Language(order of priority)|Region|user selected language|AppleLanguages("UserDefaults")|
 	  |--|--|--|--|--|
-	  ||English|United States|/|["en"]|
+	  ||English|United States|no|[en]|
+	  |English, Chinese Traditional (US)||United States|no|[en, zh-Hant-US]|
 -
 - Case 1
 	- Example project not set any Localization in Xcode
