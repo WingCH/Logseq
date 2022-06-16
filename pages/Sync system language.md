@@ -9,9 +9,9 @@
 -
 - AppleLanguages Behavior
 	- Simulator Language & Region
-	- ||Language|Region||AppleLanguages("UserDefaults")|
+	- ||Language()|Region|user selected language|AppleLanguages("UserDefaults")|
 	  |--|--|--|--|--|
-	  ||English|United States||["en"]|
+	  ||English|United States|/|["en"]|
 -
 - Case 1
 	- Example project not set any Localization in Xcode
