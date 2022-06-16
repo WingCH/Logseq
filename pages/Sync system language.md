@@ -12,7 +12,6 @@
 	- ||Language(order of priority)|Region|user selected language|AppleLanguages("UserDefaults")|
 	  |--|--|--|--|--|
 	  ||English|United States|/|["en"]|
-	-
 -
 - Case 1
 	- Example project not set any Localization in Xcode
