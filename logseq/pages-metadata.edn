@@ -34,6 +34,9 @@
  {:block/name "card",
   :block/created-at 1653664295816,
   :block/updated-at 1653664295816}
+ {:block/name "compositional layout - collection view",
+  :block/created-at 1655645233153,
+  :block/updated-at 1655645278095}
  {:block/name "contents",
   :block/created-at 1653664295817,
   :block/updated-at 1653664295817}
@@ -108,7 +111,7 @@
   :block/updated-at 1655397147174}
  {:block/name "jun 19th, 2022",
   :block/created-at 1655645174079,
-  :block/updated-at 1655645174079}
+  :block/updated-at 1655645237359}
  {:block/name "jun 3rd, 2022",
   :block/created-at 1654501117317,
   :block/updated-at 1654501117317}
