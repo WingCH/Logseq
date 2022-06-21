@@ -2,4 +2,5 @@
 -
 - {{renderer :linkpreview,https://www.youtube.com/watch?v=8-szcYzFVao}}
 -
+- {{renderer :linkpreview,https://stackoverflow.com/a/63853764/5588637}}
 -
