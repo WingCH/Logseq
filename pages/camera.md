@@ -1,6 +1,3 @@
 - InputImageRotation.rotation90deg
 - Size(720.0, 1280.0)
-- /ios
-  ||
-  |--|
-  |iOS||
+-
