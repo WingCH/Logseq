@@ -1,3 +1,4 @@
 title:: hydrated_bloc
 
-- HydratedMixin fromJson and toJson already handle error, so if parse model have error, will not throw error until `StorageNotFound`
+- HydratedMixin fromJson and toJson already handle errors, so no errors will be thrown if there is an error parsing the model, except for `StorageNotFound`
+-
