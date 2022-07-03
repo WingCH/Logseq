@@ -1,4 +1,5 @@
-- ig
+- if builder widget not used selected state, the builder will not update forever
+-
 - ```dart
   BlocSelector<HomeBloc, HomeState, String>(
     selector: (state) {
