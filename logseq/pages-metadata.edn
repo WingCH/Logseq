@@ -73,6 +73,9 @@
  {:block/name "favorites",
   :block/created-at 1653664295816,
   :block/updated-at 1653664295816}
+ {:block/name "firebase setup",
+  :block/created-at 1657010492148,
+  :block/updated-at 1657010616209}
  {:block/name "flutter",
   :block/created-at 1653702606147,
   :block/updated-at 1653702606147}
@@ -111,7 +114,7 @@
   :block/updated-at 1656989286271}
  {:block/name "jul 5th, 2022",
   :block/created-at 1656989286196,
-  :block/updated-at 1656989286196}
+  :block/updated-at 1657010497604}
  {:block/name "jun 10th, 2022",
   :block/created-at 1654847546429,
   :block/updated-at 1654847646873}
