@@ -3,5 +3,7 @@
 - chewie
 	- this plugin will overwrite `SystemChrome.setPreferredOrientations`, so fullscreen can landscape even app is set force portrait mode
 - webview_flutter
+	- cannot support video fullscreen mode in android
+- flutter_inappwebview
 	-
 # video_player
