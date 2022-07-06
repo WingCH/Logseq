@@ -15,6 +15,8 @@
 - ### iOS
 - 1. follow step 1 to 4
   https://developers.google.com/tag-platform/tag-manager/ios/v5
+- 2.
+-
 -
 -
 -
