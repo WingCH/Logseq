@@ -1,1 +1,1 @@
-- * dou't use firebase CLI, b
+- * dou't use firebase CLI, because cannot support
