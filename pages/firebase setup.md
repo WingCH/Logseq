@@ -13,5 +13,8 @@
   ```
 -
 - ### iOS
-- 1. download GTM json and put it into
+- 1. follow step 1 to 4
+  https://developers.google.com/tag-platform/tag-manager/ios/v5
+-
+-
 -
