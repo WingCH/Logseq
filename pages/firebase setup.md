@@ -15,7 +15,13 @@
 - ### iOS
 - 1. follow step 1 to 4
   https://developers.google.com/tag-platform/tag-manager/ios/v5
-- 2.
+- 2. test in **Simulator**
+  ```
+  07-06 12:50:45.397125+0800 Runner[22387:3414875] GoogleTagManager info: Loading container: GTM-KM7V4TH
+  2022-07-06 12:50:46.020878+0800 Runner[22387:3414865] GoogleTagManager info: Attempting to load saved version of container GTM-KM7V4TH
+  2022-07-06 12:50:55.533238+0800 Runner[22387:3414921] GoogleTagManager info: Processing logged event: gtm.load with parameters: (null)
+  2022-07-06 12:50:55.723183+0800 Runner[22387:3414921] GoogleTagManager info: Processing logged event: _vs with parameters: {
+  ```
 -
 -
 -
