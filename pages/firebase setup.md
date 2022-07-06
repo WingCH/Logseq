@@ -1,1 +1,5 @@
-- * dou't use firebase CLI, because cannot support
+- dou't use firebase CLI, because cannot support Analytics / Crashlytics
+-
+- ## GTM
+- ### Android
+- 1. download gtm json
