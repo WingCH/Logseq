@@ -1,2 +1,2 @@
-- 1. [video_player](video_player: ^2.4.5) video_player/
+- 1. [video_player](https://pub.dev/packages/video_player)
 # video_player
