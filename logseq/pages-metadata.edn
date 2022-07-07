@@ -117,7 +117,7 @@
   :block/updated-at 1657010497604}
  {:block/name "jul 6th, 2022",
   :block/created-at 1657036956923,
-  :block/updated-at 1657036956923}
+  :block/updated-at 1657090716337}
  {:block/name "jun 10th, 2022",
   :block/created-at 1654847546429,
   :block/updated-at 1654847646873}
@@ -220,6 +220,9 @@
  {:block/name "runtimetype",
   :block/created-at 1654501117345,
   :block/updated-at 1654501117345}
+ {:block/name "study flutter video player",
+  :block/created-at 1657090716336,
+  :block/updated-at 1657099733967}
  {:block/name "swift",
   :block/created-at 1656075023364,
   :block/updated-at 1656075023364}
