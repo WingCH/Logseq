@@ -80,7 +80,7 @@
   flutter: [debug] shouldOverrideUrlLoading about:blank
   flutter: [debug] shouldOverrideUrlLoading https://www.youtube.com/watch?v=5Peo-ivmupE&feature=emb_logo
 -
-- > ios
+- iOS will trigger `shouldOverrideUrlLoading` auto when load
 -
 - ### Android
 - I/flutter: [debug] onWebViewCreated
