@@ -78,4 +78,5 @@
   flutter: [debug] shouldOverrideUrlLoading about:blank
   flutter: [debug] shouldOverrideUrlLoading https://www.youtube.com/watch?v=5Peo-ivmupE&feature=emb_logo
 -
+- ## Android
 -
