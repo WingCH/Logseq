@@ -1,2 +1,3 @@
-- in app web view
+- package: [flutter_inappwebview](https://pub.dev/packages/flutter_inappwebview)
+- sample code:
 -
