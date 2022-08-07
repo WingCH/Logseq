@@ -64,4 +64,5 @@
 -
 - ---
 - ## Conclusion
--
+- Now in order to display the thumbnail of the video, we need to preload video , but it takes few seconds or more on the ios side.
+- ####
