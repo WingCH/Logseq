@@ -20,6 +20,7 @@
 - #### web side:
 	- 1. start (10:49:56.454968)
 	  2. body onload event trigger (10:50:10.719071)
+-
 - ![image.png](../assets/image_1659840706806_0.png)
 - ## Android
 ### Step:
