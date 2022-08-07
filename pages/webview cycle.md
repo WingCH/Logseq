@@ -67,3 +67,5 @@
 - Now in order to display the thumbnail of the video, we need to preload video , but it takes few seconds or more on the ios side.
 - #### Solution
 - backend prepares the thumbnail of the video, so that the frontend does not need to obtain the thumbnail through preload
+-
+-
