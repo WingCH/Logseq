@@ -45,4 +45,6 @@
 	  2. body onload event trigger (11:16:50.926373)
 - ![image.png](../assets/image_1659842262171_0.png)
 #### Tried 5 times (preview enabled)
-- 1.
+- 1. 11:44:34.596762 to 11:44:34.998641
+  2. 11:45:36.173198 to 11:45:36.582592
+  3.
