@@ -69,5 +69,3 @@
 - backend prepares the thumbnail of the video, so that the frontend does not need to obtain the thumbnail through preload
 -
 - 1. [使用 Amazon S3 觸發條件建立縮圖影像](https://docs.aws.amazon.com/zh_tw/lambda/latest/dg/with-s3-tutorial.html)
-  2.
--
