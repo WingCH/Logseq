@@ -20,8 +20,10 @@
 - #### web side:
 	- 1. start (10:49:56.454968)
 	  2. body onload event trigger (10:50:10.719071)
--
 - ![image.png](../assets/image_1659840706806_0.png)
+- #### Tried 5 times
+- 1. 11:28:12.723413 to 11:28:16.683238 = 
+  2.
 - ## Android
 ### Step:
 - #### dart side: (11:16:49.683851 to 11:16:50.926373)
