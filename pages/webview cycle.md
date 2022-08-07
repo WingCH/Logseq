@@ -32,7 +32,7 @@
   5. 11:32:12.898111 to 11:32:16.15298 = ~4s
 -
 - #### Tried 5 times (preview disabled)
-- ```d
+- ```dart
   mediaPlaybackRequiresUserGesture = true
   ```
 - 1. 11:34:05.413464 to 11:34:05.563590 = ~0.1s
