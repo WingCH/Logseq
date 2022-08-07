@@ -22,7 +22,7 @@
 	  2. body onload event trigger (10:50:10.719071)
 - ![image.png](../assets/image_1659840706806_0.png)
 - #### Tried 5 times (preview enabled)
-- ```
+- ```dart
   mediaPlaybackRequiresUserGesture = false
   ```
 - 1. 11:28:12.723413 to 11:28:16.683238 = ~4s
