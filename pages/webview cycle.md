@@ -13,8 +13,7 @@
 - ## Video example
 - ## iOS
 - ### Step:
-- #### dart side:
-  collapsed:: true
+- #### dart side: (10:49:56.278666 to 10:50:10.716124)
 	- 1. onLoadStart (10:49:56.278666)
 	  2. onProgressChanged until 100% (10:49:56.294044 to 10:50:10.715166)
 	  3. onLoadStop (10:50:10.716124)
@@ -22,4 +21,9 @@
 	- 1. start (10:49:56.454968)
 	  2. body onload event trigger (10:50:10.719071)
 - ![image.png](../assets/image_1659840706806_0.png)
+- ## Android
+### Step:
+#### dart side: (10:49:56.278666 to 10:50:10.716124)
 -
+-
+- ![image.png](../assets/image_1659842002902_0.png)
