@@ -12,8 +12,8 @@
 - ---
 - ## Video example
 - ### Step:
-- 1. onLoadStart
-  2. onProgressChanged until 100%
+- 1. onLoadStart (10:49:56.278666)
+  2. onProgressChanged until 100% (10:49:56.294044 to 10:50:10.715166)
   3. onLoadStop 
   4.
 - ![image.png](../assets/image_1659840706806_0.png)
