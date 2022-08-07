@@ -1,5 +1,5 @@
 - package: [flutter_inappwebview](https://pub.dev/packages/flutter_inappwebview)
-- ## Sample
+- ## Normal case example
 - ### code:
 - {{renderer :linkpreview,https://github.com/WingCH/Learning/blob/5faee74255eb24a18b2bddcbb7aebe74f613a985/Flutter/flutter_inappwebview_video_study/lib/main.dart}}
 - ### Result:
@@ -10,4 +10,7 @@
   4. onLoadStop
 - ![image.png](../assets/image_1659840345765_0.png)
 - ---
-- ## Video
+- ## Video example
+-
+- ![image.png](../assets/image_1659840706806_0.png)
+-
