@@ -23,9 +23,11 @@
 - ![image.png](../assets/image_1659840706806_0.png)
 - ## Android
 ### Step:
-- #### dart side: (11:11:44.368508 to 11:11:54.446678)
+- #### dart side: (11:16:49.683851 to 11:16:50.926373)
 	- 1. onLoadStart (11:16:49.683851)
 	  2. onProgressChanged until 100% (11:16:49.630229 to 11:16:50.914226)
-	  3. onLoadStop (11:11:54.446678)
--
+	  3. onLoadStop (11:16:50.926373)
+- #### web side:
+	- 1. start (11:16:49.705529)
+	  2. body onload event trigger (11:16:50.926373)
 - ![image.png](../assets/image_1659842262171_0.png)
