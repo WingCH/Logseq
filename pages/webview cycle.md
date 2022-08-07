@@ -22,6 +22,9 @@
 	  2. body onload event trigger (10:50:10.719071)
 - ![image.png](../assets/image_1659840706806_0.png)
 - #### Tried 5 times (preview enabled)
+- ```
+  mediaPlaybackRequiresUserGesture = false
+  ```
 - 1. 11:28:12.723413 to 11:28:16.683238 = ~4s
   2. 11:29:30.897574 to 11:29:34.691882 = ~4s
   3. 11:30:29.345046 to 11:30:29.591031 = ~0.5s
@@ -29,6 +32,9 @@
   5. 11:32:12.898111 to 11:32:16.15298 = ~4s
 -
 - #### Tried 5 times (preview disabled)
+- ```d
+  mediaPlaybackRequiresUserGesture = true
+  ```
 - 1. 11:34:05.413464 to 11:34:05.563590 = ~0.1s
   2. 11:36:06.613571 to 11:36:06.810674 = ~0.2s
   3. 11:37:57.900841 to 11:37:58.058672 = ~0.7
@@ -44,7 +50,10 @@
 	- 1. start (11:16:49.705529)
 	  2. body onload event trigger (11:16:50.926373)
 - ![image.png](../assets/image_1659842262171_0.png)
-#### Tried 5 times (preview enabled)
+- #### Tried 5 times (preview seems cannot disable)
+- ```
+  mediaPlaybackRequiresUserGesture = true/false
+  ```
 - 1. 11:44:34.596762 to 11:44:34.998641 =~0.4s
   2. 11:45:36.173198 to 11:45:36.582592 =~0.4s
   3. 11:46:23.959169 to 11:46:24.234121 =~0.3s
