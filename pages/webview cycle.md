@@ -21,7 +21,7 @@
 	- 1. start (10:49:56.454968)
 	  2. body onload event trigger (10:50:10.719071)
 - ![image.png](../assets/image_1659840706806_0.png)
-- #### Tried 5 times
+- #### Tried 5 times (open preview)
 - 1. 11:28:12.723413 to 11:28:16.683238 = ~4s
   2. 11:29:30.897574 to 11:29:34.691882 = ~4s
   3. 11:30:29.345046 to 11:30:29.591031 = ~0.5s
