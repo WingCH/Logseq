@@ -1,6 +1,6 @@
 - package: [flutter_inappwebview](https://pub.dev/packages/flutter_inappwebview)
 - source code: [flutter_inappwebview_video_study](https://github.com/WingCH/Learning/tree/main/Flutter/flutter_inappwebview_video_study)
-- web sample:
+- web sample: https://video-webview-sample.pages.dev
 - ## Normal case example
 - ### code:
 - {{renderer :linkpreview,https://github.com/WingCH/Learning/blob/5faee74255eb24a18b2bddcbb7aebe74f613a985/Flutter/flutter_inappwebview_video_study/lib/main.dart}}
