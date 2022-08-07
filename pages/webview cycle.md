@@ -11,6 +11,10 @@
 - ![image.png](../assets/image_1659840345765_0.png)
 - ---
 - ## Video example
--
+- ### Step:
+- 1. onLoadStart
+  2. onProgressChanged until 100%
+  3. onLoadStop 
+  4.
 - ![image.png](../assets/image_1659840706806_0.png)
 -
