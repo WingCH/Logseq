@@ -24,8 +24,8 @@
 - ## Android
 ### Step:
 - #### dart side: (11:11:44.368508 to 11:11:54.446678)
-	- 1. onLoadStart (11:11:44.368508)
-	  2. onProgressChanged until 100% (11:11:44.365281 to 11:11:54.438729)
+	- 1. onLoadStart (11:16:49.683851)
+	  2. onProgressChanged until 100% (11:16:49.630229 to 11:16:50.914226)
 	  3. onLoadStop (11:11:54.446678)
 -
-- ![image.png](../assets/image_1659842002902_0.png)
+- ![image.png](../assets/image_1659842262171_0.png)
