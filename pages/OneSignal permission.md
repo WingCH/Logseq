@@ -19,5 +19,8 @@
   ![image.png](../assets/image_1660621311388_0.png)
 - 6. `OneSignal.shared.setSubscriptionObserver` triggered a
   ![image.png](../assets/image_1660621536789_0.png)
--
--
+- 7. 
+  ```
+  OneSignal.*shared*.promptUserForPushNotificationPermission().then((accepted) {});
+  ```
+- 8. go to
