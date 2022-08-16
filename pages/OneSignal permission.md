@@ -15,7 +15,9 @@
   OneSignal.shared.setLogLevel(OSLogLevel.verbose, OSLogLevel.none);
   OneSignal.shared.setAppId(EnvConfig.oneSignalAppID);
   ```
-  5. ``OneSignal.shared.setSubscriptionObserver trigger
+  5. `OneSignal.shared.setSubscriptionObserver` triggered
   ![image.png](../assets/image_1660621311388_0.png)
+- 6. `OneSignal.shared.setSubscriptionObserver` triggered a
+  ![image.png](../assets/image_1660621536789_0.png)
 -
 -
