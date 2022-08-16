@@ -73,7 +73,7 @@
   ![image.png](../assets/image_1660623917997_0.png){:width 300, :height 265}
 - 18.
   ```
-  OneSignal.shared.disablePush(false)
+  OneSignal.shared.disablePush(true)
   OneSignal.shared.setSubscriptionObserver
   ```
 - ![image.png](../assets/image_1660624005477_0.png){:width 300, :height 265}
