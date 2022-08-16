@@ -44,8 +44,8 @@
 - 12. go to setting page
   13. 
   ```dart
-  OneSignal.shared.getDeviceState().then((state) {
-  });
+  OneSignal.shared.getDeviceState()
   ```
+  ![image.png](../assets/image_1660623596994_0.png){:width 300, :height 265}
   14. `OneSignal.shared.setSubscriptionObserver` triggered
   ![image.png](../assets/image_1660622531311_0.png){:width 300, :height 265}
