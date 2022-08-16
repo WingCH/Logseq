@@ -23,4 +23,6 @@
   ```
   OneSignal.*shared*.promptUserForPushNotificationPermission().then((accepted) {});
   ```
-- 8. go to
+- 8. go to setting page
+  9. ` OneSignal.shared.getDeviceState()`
+  ![image.png](../assets/image_1660621748611_0.png)
