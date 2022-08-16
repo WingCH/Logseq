@@ -21,7 +21,9 @@
   ![image.png](../assets/image_1660621536789_0.png){:width 300, :height 265}
 - 6. 
   ```
-  OneSignal.*shared*.promptUserForPushNotificationPermission().then((accepted) {});
+  OneSignal.*shared*.promptUserForPushNotificationPermission().then((accepted) {
+  // accepted = false
+  });
   ```
 - 7. go to setting page
   8. ` OneSignal.shared.getDeviceState()`
