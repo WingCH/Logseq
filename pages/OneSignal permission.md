@@ -1,5 +1,4 @@
 -
--
 - ||System notification||
   |--|--|--|
   |Android|off||
