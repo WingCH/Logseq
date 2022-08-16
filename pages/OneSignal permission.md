@@ -63,4 +63,8 @@
   OneSignal.*shared*.getDeviceState()
   ````
   ![image.png](../assets/image_1660623917997_0.png){:width 300, :height 265}
+- 18.
+  ```
+  OneSignal.*shared*.setSubscriptionObserver
+  ```
 -
