@@ -8,7 +8,7 @@
 -
 - ## Record
 - ### Android
-- 1. delete old app
+- 1. delete existing app
   2. install
   3. 
   ```dart
