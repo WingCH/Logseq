@@ -57,4 +57,5 @@
 - ```
   OneSignal.*shared*.setSubscriptionObserver
   ```
-- ![image.png](../assets/image_1660623808500_0.png)
+- ![image.png](../assets/image_1660623808500_0.png){:width 300, :height 265}
+- 17. back and open setting again
