@@ -7,13 +7,6 @@
   |iOS||on|||||
 -
 -
-- |||System notification|hasNotificationPermission|push on ?|subscribed|notificationPermissionStatus|
-  |--|--|--|--|--|--|--|
-  |Android|11 RKQ1.200826.002|off|false|false|false|null|
-  |Android|11 RKQ1.200826.002|on|true|true|true|null|
-  |iOS||off|||||
-  |iOS||on|||||
--
 - ## Record
 - ### Android
 - 1. delete existing app
