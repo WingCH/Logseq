@@ -11,5 +11,6 @@
 - 1. delete old app
   2. install
   3. OneSignal.shared.setSubscriptionObserver trigger
-  4.
+  ![image.png](../assets/image_1660621311388_0.png)
+-
 -
