@@ -1,10 +1,10 @@
 -
-- |||System notification|OSDeviceState.hasNotificationPermission||
-  |--|--|--|--|--|
-  |Android|11 RKQ1.200826.002|off|||
-  |Android|11 RKQ1.200826.002|on|true|false|
-  |iOS||off|||
-  |iOS||on|||
+- |||System notification|OSDeviceState.hasNotificationPermission|OSDeviceState.pushDisabled|OSDeviceState.|
+  |--|--|--|--|--|--|
+  |Android|11 RKQ1.200826.002|off||||
+  |Android|11 RKQ1.200826.002|on|true|false||
+  |iOS||off||||
+  |iOS||on||||
 -
 - ## Record
 - ### Android
