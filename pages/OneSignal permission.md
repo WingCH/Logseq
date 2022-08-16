@@ -11,13 +11,13 @@
 - 1. delete old app
   2. install
   3. 
-  ```
+  ```dart
   OneSignal.shared.setLogLevel(OSLogLevel.verbose, OSLogLevel.none);
   OneSignal.shared.setAppId(EnvConfig.oneSignalAppID);
   ```
-  5. `OneSignal.shared.setSubscriptionObserver` triggered
+  4. `OneSignal.shared.setSubscriptionObserver` triggered
   ![image.png](../assets/image_1660621311388_0.png){:width 300, :height 265}
-- 6. `OneSignal.shared.setSubscriptionObserver` triggered a
+- 6. `OneSignal.shared.setSubscriptionObserver` triggered again
   ![image.png](../assets/image_1660621536789_0.png){:width 300, :height 265}
 - 7. 
   ```
