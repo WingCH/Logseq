@@ -35,7 +35,13 @@
   OneSignal.shared.setLogLevel(OSLogLevel.verbose, OSLogLevel.none);
   OneSignal.shared.setAppId(EnvConfig.oneSignalAppID);
   ```
-  12. go to setting page
+- 12. 
+  ```dart
+  OneSignal.shared.promptUserForPushNotificationPermission().then((accepted) {
+  	// accepted = false
+  });
+  ```
+- 12. go to setting page
   13. `OneSignal.shared.setSubscriptionObserver` triggered
   ![image.png](../assets/image_1660622531311_0.png){:width 300, :height 265}
   14.
