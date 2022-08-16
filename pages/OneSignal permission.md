@@ -1,7 +1,7 @@
 -
 - |||System notification|hasNotificationPermission|pushDisabled|subscribed|notificationPermissionStatus|
   |--|--|--|--|--|--|--|
-  |Android|11 RKQ1.200826.002|off|||||
+  |Android|11 RKQ1.200826.002|off|false|true|false|null|
   |Android|11 RKQ1.200826.002|on|true|false|true|null|
   |iOS||off|||||
   |iOS||on|||||
@@ -49,3 +49,4 @@
   ![image.png](../assets/image_1660623596994_0.png){:width 300, :height 265}
   14. `OneSignal.shared.setSubscriptionObserver` triggered
   ![image.png](../assets/image_1660622531311_0.png){:width 300, :height 265}
+- 15. now push notification is **off** in ui
