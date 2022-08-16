@@ -26,3 +26,4 @@
 - 7. go to setting page
   8. ` OneSignal.shared.getDeviceState()`
   ![image.png](../assets/image_1660621748611_0.png){:width 300, :height 265}
+- 9. close app and go to setting
