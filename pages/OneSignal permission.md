@@ -17,12 +17,12 @@
   ```
   4. `OneSignal.shared.setSubscriptionObserver` triggered
   ![image.png](../assets/image_1660621311388_0.png){:width 300, :height 265}
-- 6. `OneSignal.shared.setSubscriptionObserver` triggered again
+- 5. `OneSignal.shared.setSubscriptionObserver` triggered again
   ![image.png](../assets/image_1660621536789_0.png){:width 300, :height 265}
-- 7. 
+- 6. 
   ```
   OneSignal.*shared*.promptUserForPushNotificationPermission().then((accepted) {});
   ```
-- 8. go to setting page
-  9. ` OneSignal.shared.getDeviceState()`
+- 7. go to setting page
+  8. ` OneSignal.shared.getDeviceState()`
   ![image.png](../assets/image_1660621748611_0.png){:width 300, :height 265}
