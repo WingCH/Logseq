@@ -60,16 +60,16 @@
 - 15. now push notification is **off** in ui
   16. click `on` in ui
   ```
-  OneSignal.*shared*.disablePush(*true*);
+  OneSignal.shared.disablePush(false);
   ```
 - ```
-  OneSignal.*shared*.setSubscriptionObserver
+  OneSignal.shared.setSubscriptionObserver
   ```
 - ![image.png](../assets/image_1660623808500_0.png){:width 300, :height 265}
 - 17. back and open setting again
   ````
-  OneSignal.*shared*.getDeviceState()
-  ````
+  OneSignal.shared.getDeviceState()
+  ```
   ![image.png](../assets/image_1660623917997_0.png){:width 300, :height 265}
 - 18.
   ```
