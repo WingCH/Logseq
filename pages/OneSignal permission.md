@@ -28,7 +28,7 @@
 - 7. go to setting page
   8. ` OneSignal.shared.getDeviceState()`
   ![image.png](../assets/image_1660621748611_0.png){:width 300, :height 265}
-- 9. close app and go to setting off notification permission
+- 9. close app and go to setting **turn off notification permission
   10. reopen app
   11. go to setting page
   12. `OneSignal.shared.setSubscriptionObserver` triggered
