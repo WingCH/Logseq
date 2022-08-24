@@ -1,3 +1,2 @@
 - ## Reason
-- 1. [example](https://github.com/OneSignal/OneSignal-Flutter-SDK/tree/main/example) does not create custom channel 
-  2.
+- 1. [example](https://github.com/OneSignal/OneSignal-Flutter-SDK/tree/main/example) does not create custom channel, if no existing channel, OneSignal push notification will use ``
