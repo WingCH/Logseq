@@ -5,5 +5,5 @@
 - create custom channel, and set `Importance` to **URGENT** which can auto enable `Pop on screen`
 - two way to create channel
 - 1. in OneSignal dashboard
-  2. un
+  2. in app, https://developer.android.com/training/notify-user/channels
 -
