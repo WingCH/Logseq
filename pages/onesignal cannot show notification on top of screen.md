@@ -1,2 +1,2 @@
 - ## Reason
-- 1. [example](https://github.com/OneSignal/OneSignal-Flutter-SDK/tree/main/example) does not create custom channel, if no existing channel, OneSignal push notification will use `Miscellaneous` channel as default channel, but this channel does not have exam
+- 1. [example](https://github.com/OneSignal/OneSignal-Flutter-SDK/tree/main/example) does not create custom channel, if no existing channel, OneSignal push notification will use `Miscellaneous` channel as default channel, but this channel does not have enable `Pop on screen`  permission
