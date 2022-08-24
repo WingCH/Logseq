@@ -3,5 +3,7 @@
 - ![image.png](../assets/image_1661350753568_0.png){:height 345, :width 191}
 - ## Solution (not confirmed)
 - create custom channel, and set `Importance` to **URGENT** which can auto enable `Pop on screen`
-- two way to cr
+- two way to create channel
+- 1. in OneSignal dashboard
+  2. un
 -
