@@ -6,4 +6,3 @@
 - two way to create channel
 - 1. in OneSignal dashboard
   2. in app, https://developer.android.com/training/notify-user/channels
--
