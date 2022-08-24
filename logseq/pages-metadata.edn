@@ -12,7 +12,10 @@
   :block/updated-at 1654847651936}
  {:block/name "aug 24th, 2022",
   :block/created-at 1661350230447,
-  :block/updated-at 1661350230447}
+  :block/updated-at 1661350343177}
+ {:block/name "aug 3rd, 2022",
+  :block/created-at 1661350262203,
+  :block/updated-at 1661350262203}
  {:block/name "aug 7th, 2022",
   :block/created-at 1659839999589,
   :block/updated-at 1659840049390}
@@ -79,6 +82,9 @@
  {:block/name "favorites",
   :block/created-at 1653664295816,
   :block/updated-at 1653664295816}
+ {:block/name "firebase setup",
+  :block/created-at 1661350262054,
+  :block/updated-at 1661350262054}
  {:block/name "flutter",
   :block/created-at 1653702606147,
   :block/updated-at 1653702606147}
@@ -124,6 +130,12 @@
  {:block/name "jul 4th, 2022",
   :block/created-at 1656864603649,
   :block/updated-at 1656864603649}
+ {:block/name "jul 5th, 2022",
+  :block/created-at 1661350262209,
+  :block/updated-at 1661350262209}
+ {:block/name "jul 6th, 2022",
+  :block/created-at 1661350262171,
+  :block/updated-at 1661350262171}
  {:block/name "jun 10th, 2022",
   :block/created-at 1654847546429,
   :block/updated-at 1654847646873}
@@ -214,6 +226,9 @@
  {:block/name "now",
   :block/created-at 1653664295817,
   :block/updated-at 1653664295817}
+ {:block/name "onesignal cannot show notification on top of screen",
+  :block/created-at 1661350343176,
+  :block/updated-at 1661351265568}
  {:block/name "price input",
   :block/created-at 1654744688291,
   :block/updated-at 1654744705248}
@@ -232,6 +247,9 @@
  {:block/name "runtimetype",
   :block/created-at 1654501117345,
   :block/updated-at 1654501117345}
+ {:block/name "study flutter video player",
+  :block/created-at 1661350262171,
+  :block/updated-at 1661350262171}
  {:block/name "swift",
   :block/created-at 1656075023364,
   :block/updated-at 1656075023364}
@@ -259,9 +277,12 @@
  {:block/name "waiting",
   :block/created-at 1653664295816,
   :block/updated-at 1653664295816}
- {:block/name "webview cycle",
-  :block/created-at 1659840049389,
-  :block/updated-at 1659845480760}
+ {:block/name "webview",
+  :block/created-at 1661350262202,
+  :block/updated-at 1661350262202}
+ {:block/name "webview video study",
+  :block/created-at 1661350262149,
+  :block/updated-at 1661350262149}
  {:block/name "what's new in vision",
   :block/created-at 1655174920210,
   :block/updated-at 1655174920210}
@@ -278,5 +299,8 @@
   :block/created-at 1655174920287,
   :block/updated-at 1655174920287}
  {:block/name "xcode",
-  :block/created-at 1655287458715, 
-  :block/updated-at 1655287458715}]
+  :block/created-at 1655287458715,
+  :block/updated-at 1655287458715}
+ {:block/name "youtube iframe",
+  :block/created-at 1661350262193, 
+  :block/updated-at 1661350262193}]
