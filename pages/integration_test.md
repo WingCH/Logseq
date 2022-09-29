@@ -9,3 +9,5 @@ title:: integration_test
 	- js:
 	  https://github.com/WingCH/Learning/tree/main/Testing/appium/first_try
 	- python:
+	  https://github.com/WingCH/Learning/tree/main/Testing/appium/first_try_py
+-
