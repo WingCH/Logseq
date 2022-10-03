@@ -5,6 +5,6 @@
 - https://docs.walletconnect.com/mobile-linking#wallet-support
 -
 -
-- Android:
+- MetaMask staff supp
 - https://github.com/MetaMask/metamask-mobile/issues/4500
 -
