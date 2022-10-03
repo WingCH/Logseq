@@ -2,3 +2,6 @@
 -
 - https://github.com/MetaMask/metamask-mobile/issues/3735
 -
+- Android:
+- https://github.com/MetaMask/metamask-mobile/issues/4500
+-
