@@ -2,9 +2,12 @@
 - https://dev.to/bhaskardutta/building-with-flutter-and-metamask-8h5
 -
 -
+- `Wallet Connect` deeplink and universal link doc
 - https://docs.walletconnect.com/mobile-linking#wallet-support
 -
--
-- MetaMask staff supp
+- MetaMask staff suggest use `Wallet Connect`
 - https://github.com/MetaMask/metamask-mobile/issues/4500
+-
+-
+- Code:
 -
