@@ -1,7 +1,9 @@
-- Toutor:
+- Tutorial:
 - https://dev.to/bhaskardutta/building-with-flutter-and-metamask-8h5
 -
-- https://github.com/MetaMask/metamask-mobile/issues/3735
+-
+- https://docs.walletconnect.com/mobile-linking#wallet-support
+-
 -
 - Android:
 - https://github.com/MetaMask/metamask-mobile/issues/4500
