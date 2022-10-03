@@ -1,2 +1,4 @@
 - https://dev.to/bhaskardutta/building-with-flutter-and-metamask-8h5
 -
+- https://github.com/MetaMask/metamask-mobile/issues/3735
+-
