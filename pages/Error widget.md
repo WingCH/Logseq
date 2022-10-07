@@ -18,7 +18,7 @@
         ),
   ```
 -
-- ### Debug mode:
+- ### Debug / Release mode:
 - #### screen
 - ![image.png](../assets/image_1665109929669_0.png){:height 340, :width 146}
 - #### console
@@ -56,4 +56,5 @@
   I/flutter ( 8230): #5      Element.inflateWidget (package:flutter/src/widgets/framework.dart:3863)
   ```
 -
+- ---
 -
