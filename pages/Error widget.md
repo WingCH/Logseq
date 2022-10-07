@@ -1,6 +1,3 @@
-category:: [[Programming]]
-
-- categ
 - https://juejin.cn/post/7134510980905566238
 -
 -
