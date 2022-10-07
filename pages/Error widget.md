@@ -43,4 +43,17 @@
 -
 - ### Profile mode
 - #### screen
+- ![image.png](../assets/image_1665110175011_0.png)
+- #### console
+- ```
+  Installing build/app/outputs/flutter-apk/app.apk...
+  I/flutter ( 8230): type 'ParentData' is not a subtype of type 'StackParentData' in type cast
+  I/flutter ( 8230): #0      Positioned.applyParentData (package:flutter/src/widgets/basic.dart:4149)
+  I/flutter ( 8230): #1      RenderObjectElement._updateParentData (package:flutter/src/widgets/framework.dart:6061)
+  I/flutter ( 8230): #2      RenderObjectElement.attachRenderObject (package:flutter/src/widgets/framework.dart:6082)
+  I/flutter ( 8230): #3      RenderObjectElement.mount (package:flutter/src/widgets/framework.dart:5751)
+  I/flutter ( 8230): #4      SingleChildRenderObjectElement.mount (package:flutter/src/widgets/framework.dart:6299)
+  I/flutter ( 8230): #5      Element.inflateWidget (package:flutter/src/widgets/framework.dart:3863)
+  ```
+-
 -
