@@ -43,7 +43,7 @@
 -
 - ### Profile mode
 - #### screen
-- ![image.png](../assets/image_1665110175011_0.png)
+- ![image.png](../assets/image_1665110175011_0.png){:height 799, :width 286}
 - #### console
 - ```
   Installing build/app/outputs/flutter-apk/app.apk...
