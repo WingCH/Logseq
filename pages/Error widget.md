@@ -1,7 +1,7 @@
 - https://juejin.cn/post/7134510980905566238
 -
 -
-- problom
+- something wrong widget
 - ```dart
   Stack(
           children: <Widget>[
@@ -18,6 +18,7 @@
         ),
   ```
 -
-- debug mode:
-- ![image.png](../assets/image_1665109929669_0.png){:height 783, :width 276}
--
+- ### Debug mode:
+- #### screen
+- ![image.png](../assets/image_1665109929669_0.png){:height 340, :width 146}
+- ####
