@@ -1,2 +1,2 @@
 - Self host
-	- need install all software myself ()
+	- need install all software myself (official runner image)
