@@ -1,4 +1,4 @@
-- Limit
+- ## Limit
 - Self host runner
 	- All software needs to be installed by yourself ( [official runner image](https://github.com/actions/runner-images/blob/main/images/macos/macos-12-Readme.md) )
 -
