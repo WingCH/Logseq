@@ -9,5 +9,5 @@
 	- Per-minute rates is most **expensive**
 		- | Operating system | Cores | Per-minute rate (USD) |
 		  | ---- | ---- | ---- |
-		  | macOS | 3 | $0.08 |
+		  | macOS | 3 | $0.08 (0.63 hkd)|
 -
