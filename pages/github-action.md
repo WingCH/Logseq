@@ -1,1 +1,2 @@
-- 1.
+- Self host
+	- need install all software myself ()
