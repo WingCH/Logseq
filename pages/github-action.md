@@ -12,3 +12,4 @@
 		  | macOS | 3 | $0.08 (0.63 hkd)|
 	- codemagic is `$0.095/minute (0.75 hkd)`
 -
+-
