@@ -20,6 +20,8 @@
   PeerMeta(
     name: packageInfo.appName,
     url: 'https://artazine.com',
+    // if description is null, trust wallet (iOS 7.20 (691)) will not show the connection request
+    description: '',
     icons: ['https://assets.artazine.com/favicon.png'],
   ),
   ```
