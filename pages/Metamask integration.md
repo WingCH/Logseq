@@ -15,11 +15,6 @@
 - ---
 -
 - ## PeerMeta Behavior
--
-- ||MetaMask|Exodus|Defi Wallet (Crypto.com)|Trust Wallet|
-  |--|--|--|--|--|
-  |android| ![photo1667554471.jpeg](../assets/photo1667554471_1667555373930_0.jpeg) | ![photo1667554472.jpeg](../assets/photo1667554472_1667555471367_0.jpeg) | ![photo1667554474.jpeg](../assets/photo1667554474_1667555480829_0.jpeg) | ![photo1667554470.jpeg](../assets/photo1667554470_1667555493493_0.jpeg) |
-  |iOS| ![IMG_0017.PNG](../assets/IMG_0017_1667556403954_0.PNG) || ![IMG_0019.PNG](../assets/IMG_0019_1667556408505_0.PNG) ||
 - Android
 - ```dart
   PeerMeta(
@@ -28,5 +23,11 @@
     icons: ['https://assets.artazine.com/favicon.png'],
   ),
   ```
+-
+- ||MetaMask|Exodus|Defi Wallet (Crypto.com)|Trust Wallet|
+  |--|--|--|--|--|
+  |android| ![photo1667554471.jpeg](../assets/photo1667554471_1667555373930_0.jpeg) | ![photo1667554472.jpeg](../assets/photo1667554472_1667555471367_0.jpeg) | ![photo1667554474.jpeg](../assets/photo1667554474_1667555480829_0.jpeg) | ![photo1667554470.jpeg](../assets/photo1667554470_1667555493493_0.jpeg) |
+  |iOS| ![IMG_0017.PNG](../assets/IMG_0017_1667556403954_0.PNG) || ![IMG_0019.PNG](../assets/IMG_0019_1667556408505_0.PNG) ||
+-
 -
 -
