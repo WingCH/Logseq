@@ -16,7 +16,10 @@
 -
 - ## PeerMeta Behavior
 -
--
+- ||MetaMask|Exodus|Defi Wallet (Crypto.com)|Trust Wallet|
+  |--|--|--|--|--|
+  |android|||||
+  |iOS|||||
 - Android
 - ```dart
   PeerMeta(
