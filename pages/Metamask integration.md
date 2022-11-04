@@ -18,7 +18,7 @@
 -
 - ||MetaMask|Exodus|Defi Wallet (Crypto.com)|Trust Wallet|
   |--|--|--|--|--|
-  |android|||||
+  |android| ![photo1667554471.jpeg](../assets/photo1667554471_1667555373930_0.jpeg) ||||
   |iOS|||||
 - Android
 - ```dart
