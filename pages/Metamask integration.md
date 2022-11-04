@@ -17,4 +17,12 @@
 - ## PeerMeta Behavior
 -
 - Android
+- ```dart
+  PeerMeta(
+    name: packageInfo.appName,
+    url: 'https://artazine.com',
+    icons: ['https://assets.artazine.com/favicon.png'],
+  ),
+  ```
+-
 -
