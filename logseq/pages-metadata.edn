@@ -241,6 +241,9 @@
  {:block/name "navigator",
   :block/created-at 1654501117469,
   :block/updated-at 1654501117469}
+ {:block/name "nov 21st, 2022",
+  :block/created-at 1669023000611,
+  :block/updated-at 1669023000611}
  {:block/name "nov 4th, 2022",
   :block/created-at 1667554478003,
   :block/updated-at 1667554478003}
@@ -279,7 +282,7 @@
   :block/updated-at 1664985618237}
  {:block/name "oct 7th, 2022",
   :block/created-at 1665109787812,
-  :block/updated-at 1665130371919}
+  :block/updated-at 1669023023975}
  {:block/name "oct 8th, 2022",
   :block/created-at 1665160498568,
   :block/updated-at 1665160498568}
